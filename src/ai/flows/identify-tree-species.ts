@@ -21,7 +21,8 @@ const IdentifyTreeSpeciesInputSchema = z.object({
 export type IdentifyTreeSpeciesInput = z.infer<typeof IdentifyTreeSpeciesInputSchema>;
 
 const IdentifyTreeSpeciesOutputSchema = z.object({
-  speciesName: z.string().describe('The identified species name of the tree.'),
+  speciesName: z.string().describe('The identified English species name of the tree.'),
+  speciesNameSpanish: z.string().describe('The identified Spanish species name of the tree.'),
   confidence: z.number().describe('The confidence level of the identification (0-1).'),
   additionalDetails: z.string().optional().describe('Any additional details about the identification.'),
 });
@@ -43,7 +44,7 @@ Analyze the following image:
 
 {{media url=photoDataUri}}
 
-Return the species name, your confidence level (0-1), and any additional details that might be helpful.
+Return the English and Spanish species names, your confidence level (0-1), and any additional details that might be helpful.
 `,
 });
 

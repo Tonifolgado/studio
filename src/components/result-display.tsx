@@ -35,6 +35,7 @@ export function ResultDisplay({ result, error }: ResultDisplayProps) {
         <CardContent className="space-y-4">
           <div className="space-y-2">
             <h3 className="text-2xl font-bold font-headline text-primary">{result.speciesName}</h3>
+            <p className="text-xl text-muted-foreground">{result.speciesNameSpanish}</p>
             {result.additionalDetails && <p className="text-muted-foreground">{result.additionalDetails}</p>}
           </div>
           <div>
