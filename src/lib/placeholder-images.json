@@ -1,3 +1,82 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "hero-1",
+      "description": "A lush forest canopy seen from below with sun rays filtering through.",
+      "imageUrl": "https://images.unsplash.com/photo-1702794130211-8fdb84960cce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxmb3Jlc3QlMjBjYW5vcHl8ZW58MHx8fHwxNzYyMDA5MzQ0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "forest canopy"
+    },
+    {
+      "id": "oak-leaf",
+      "description": "A close-up of an oak leaf showing its distinct lobes.",
+      "imageUrl": "https://images.unsplash.com/photo-1688845608566-2979fbf2e705?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxvYWslMjBsZWFmfGVufDB8fHx8MTc2MjA5ODYyN3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "oak leaf"
+    },
+    {
+      "id": "oak-bark",
+      "description": "The rough, textured bark of an old oak tree.",
+      "imageUrl": "https://images.unsplash.com/photo-1710189728719-2bf2cd4a4792?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxvYWslMjBiYXJrfGVufDB8fHx8MTc2MjA5ODYyOHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "oak bark"
+    },
+    {
+      "id": "oak-tree",
+      "description": "A majestic English Oak tree standing in a field.",
+      "imageUrl": "https://images.unsplash.com/photo-1592888320559-4544ed5bda71?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxvYWslMjB0cmVlfGVufDB8fHx8MTc2MjA2Mzc5OXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "oak tree"
+    },
+    {
+      "id": "oak-range-map",
+      "description": "A map showing the geographical distribution of the English Oak.",
+      "imageUrl": "https://images.unsplash.com/photo-1588607327673-83b8f3791d6a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxldXJvcGUlMjBtYXB8ZW58MHx8fHwxNzYyMDE0NTI5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "europe map"
+    },
+    {
+      "id": "maple-leaf",
+      "description": "A vibrant red maple leaf, characteristic of autumn.",
+      "imageUrl": "https://images.unsplash.com/photo-1605169283429-8a9d78313a01?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxtYXBsZSUyMGxlYWZ8ZW58MHx8fHwxNzYyMDc0NDg3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "maple leaf"
+    },
+    {
+      "id": "maple-bark",
+      "description": "The smooth, grey bark of a young maple tree.",
+      "imageUrl": "https://images.unsplash.com/photo-1519606247872-0440aae9b827?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHx0cmVlJTIwYmFya3xlbnwwfHx8fDE3NjIwOTg2Mjh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "tree bark"
+    },
+    {
+      "id": "maple-tree",
+      "description": "A Sugar Maple tree with brilliant fall foliage.",
+      "imageUrl": "https://images.unsplash.com/photo-1570684433770-6be4f2813536?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxtYXBsZSUyMHRyZWV8ZW58MHx8fHwxNzYyMDYzNzk5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "maple tree"
+    },
+    {
+      "id": "maple-range-map",
+      "description": "A map showing the geographical distribution of the Sugar Maple.",
+      "imageUrl": "https://images.unsplash.com/photo-1604549944235-3e5579b15cc2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxub3J0aCUyMGFtZXJpY2ElMjBtYXB8ZW58MHx8fHwxNzYyMDk4NjI3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "north america map"
+    },
+    {
+      "id": "pine-needles",
+      "description": "A close-up of the long needles of a Scots Pine.",
+      "imageUrl": "https://images.unsplash.com/photo-1700984925258-8091c9dc9be2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxwaW5lJTIwbmVlZGxlc3xlbnwwfHx8fDE3NjIwNjM3OTl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "pine needles"
+    },
+    {
+      "id": "pine-bark",
+      "description": "The flaky, orange-brown bark of a Scots Pine.",
+      "imageUrl": "https://images.unsplash.com/photo-1733164776605-85fdfc65c7ab?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxwaW5lJTIwYmFya3xlbnwwfHx8fDE3NjIwOTg2Mjh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "pine bark"
+    },
+    {
+      "id": "pine-tree",
+      "description": "A tall Scots Pine tree against a blue sky.",
+      "imageUrl": "https://images.unsplash.com/photo-1509992030181-1c99eb07dec8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxwaW5lJTIwdHJlZXxlbnwwfHx8fDE3NjIwNjM3OTl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "pine tree"
+    },
+    {
+      "id": "pine-range-map",
+      "description": "A map showing the geographical distribution of the Scots Pine.",
+      "imageUrl": "https://images.unsplash.com/photo-1569997768068-4dc032f4c509?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8ZXVyYXNpYSUyMG1hcHxlbnwwfHx8fDE3NjIwOTg2Mjd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "eurasia map"
+    }
+  ]
 }
